@@ -19,7 +19,7 @@ This repo is a **visual showcase** of a custom UI theme/layout, ideal for:
 ![image](https://github.com/user-attachments/assets/a3a252ee-0d54-4c3e-b4f8-a7013d7d550a)
 ![image](https://github.com/user-attachments/assets/30bb5347-1f37-4281-97bf-f72ddac8636a)
 ![image](https://github.com/user-attachments/assets/05f33b8e-9a2e-4974-b62f-cc8a8776ddec)
-![image](https://github.com/user-attachments/assets/44ca4240-3937-4d0e-9ed5-9c8c902b7a04)
+![image](https://github.com/user-attachments/assets/9b37813b-70e8-4725-a593-e4f7a9b63614)
 
 
 
