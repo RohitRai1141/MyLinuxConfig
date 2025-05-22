@@ -15,11 +15,13 @@ This repo is a **visual showcase** of a custom UI theme/layout, ideal for:
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/14686d97-2776-4c8b-82bc-d37e1b560c1b)
+![image](https://github.com/user-attachments/assets/a3a252ee-0d54-4c3e-b4f8-a7013d7d550a)
+![image](https://github.com/user-attachments/assets/30bb5347-1f37-4281-97bf-f72ddac8636a)
+![image](https://github.com/user-attachments/assets/05f33b8e-9a2e-4974-b62f-cc8a8776ddec)
+![image](https://github.com/user-attachments/assets/44ca4240-3937-4d0e-9ed5-9c8c902b7a04)
 
-| Layout Sample | UI Element |
-|---------------|------------|
-| ![Preview 1](./9d4c79de-a92c-4449-9bbe-9549619b1c8a.png) | ![Preview 2](./b2168f97-e2ea-4c51-84d9-7caaf0b5a156.png) |
-| ![Preview 3](./c101e469-41e1-420e-973c-be974e02ca73.png) | ![Preview 4](./8662b389-0afd-4013-8059-fa0b25e8bc55.png) |
+
 
 > 🔍 These visuals represent panels, status bars, system info cards, or interface components.
 
